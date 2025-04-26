@@ -1,0 +1,32 @@
+<html>
+		<head>
+				<title>online form</title>
+		</head>
+<center>
+<body bgcolor="green">
+  first name:-<input type="text" ><br><br>
+ middel name:-<input type="text" size=35><br><br>
+   last name:-<input type="text" size=35><br><br>
+ email address<input type="text" size=35><br><br>
+password:-<input type="password" name="pa"><br><br>
+conform password<input type="password" name="co"><br><br>
+hobby:-<br><br>
+playing<input type="checkbox">running<input type="checkbox"><br><br>
+gender:- <br><br>male<input type="radio" name="m"> female<input type="radio" name="m"><br><br>
+permenent address<textarea cols=50 rows=5>
+			</textarea><br><br>
+pincode<input type="number" maxlentgh=6><br><br>
+<img src="C:\Users\dkota\OneDrive\Pictures\img4.jpg" width="130px" height="90px"></img>
+city<select>
+		<option>-select-
+		<option>surat
+		<option>rajkot
+		<option>bhavnagar
+		<option>amdavad
+	</select><br><br>
+birth date<input type="date"><hr><br><br>
+
+
+<input type="button" value="submit">				
+</body>
+</html>
